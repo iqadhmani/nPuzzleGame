@@ -1,0 +1,11 @@
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\bin\Debug\IQadhmaniAssignment3.exe.config
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\bin\Debug\IQadhmaniAssignment3.exe
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\bin\Debug\IQadhmaniAssignment3.pdb
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.csprojResolveAssemblyReference.cache
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.NPuzzleGame.resources
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.Properties.Resources.resources
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.csproj.GenerateResource.Cache
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.csproj.CoreCompileInputs.cache
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.exe
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.pdb
+C:\IQadhmaniAssignment3\IQadhmaniAssignment3\obj\Debug\IQadhmaniAssignment3.ExitMessageBox.resources
